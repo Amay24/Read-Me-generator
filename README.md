@@ -22,6 +22,10 @@
     _Here are the instruction for using this application_
 
     This can be used to create readmes for your github portfolio.
+    
+    Here is a link to the application being used!
+    
+    https://github.com/Amay24/Read-Me-generator/blob/main/read%20me%20generator.mov
 
     ## Github
 
