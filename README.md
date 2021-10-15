@@ -1,8 +1,8 @@
-# read me generator
+# Read me generator
     
     ## Description
    
-   This is a read me Generator made for a homework assignment. This project utilizes node and npm inquirer.
+    this creates a readme file for your project.
 
     ## Table of Contents
 
@@ -15,19 +15,19 @@
 
     _Here are the steps for installation:_
 
-   Clone the repo from github and install the proper npm packages to utilize this.
+    Clone the repo and install all npm packages to utilize it properly.
 
     ## Usage
 
     _Here are the instruction for using this application_
 
-    This application can be run to create readme files for your github projects.
+    This can be used to create readmes for your github portfolio.
 
     ## Github
 
     Please reach me at by email or GitHub should you have any questions.
 
-    Github: [dksfnajksbjkfd](https://github.com/Amay24
+    Github: [Amay24](https://github.com/Amay24)
 
     Email: [amay.sharma15@gmail.com](mailto:amay.sharma15@gmail.com)
 
